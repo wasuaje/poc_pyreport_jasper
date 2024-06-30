@@ -1,0 +1,56 @@
+cat_id,cat_name,code,prod_name,format,price,cost,stock
+1,Manicura,00001,Manicura,und,600,0,1
+1,Manicura,00002,"Manicura con común",und,1000,0,1
+1,Manicura,00003,"Manicura con Semipermanente",und,1200,0,1
+1,Manicura,00004,"Capping con Gel de Construcción",und,2000,0,1
+1,Manicura,00005,"Manos Capping de gel Nivelador",und,1400,0,1
+1,Manicura,00006,"Pies sin esmaltar",und,1000,0,1
+1,Manicura,00007,"Pies esmalte comun",und,1200,0,1
+1,Manicura,00008,"Pies esmalte semi-perm.",und,2000,0,1
+1,Manicura,00009,"Reparacion Uñas",und,100,0,1
+1,Manicura,00010,"Cejas Dño/Dep./Somb.",und,1500,0,1
+1,Manicura,00011,"Bozo Depilado",und,300,0,1
+1,Manicura,00012,"Menton Depilado",und,300,0,1
+1,Manicura,00013,"Uñas micoticas",und,100,0,1
+1,Manicura,00014,"Cejas Diseño y Depilacion",und,1000,0,1
+1,Manicura,00015,"Cejas Diseño y Sombreado",und,1500,0,1
+1,Manicura,00016,"Retiro de Acrilico/Gel",und,250,0,1
+1,Manicura,00017,"Retiro Esmalte Semi",und,300,0,1
+1,Manicura,00018,"Lifting de Pestañas",und,2000,0,1000
+1,Manicura,00019,"Pestañas Clasicas",und,2400,0,1
+1,Manicura,00020,"Pestañas Medio",und,2800,0,1
+1,Manicura,00021,"Pestañas Volumen",und,3200,0,1
+1,Manicura,00027,"Service Uñas Acrilicas",und,1500,0,1
+1,Manicura,00052,"Soft Gel",und,1800,0,1
+4,"Peluqueria (Corte)",00022,"Corte de Cabello",und,1000,0,1
+4,"Peluqueria (Corte)",00053,"Corte y Secado",und,1500,0,1
+5,"Peluqueria (Colorimetria)",00025,Tinte,und,4000,0,0
+5,"Peluqueria (Colorimetria)",00026,Rayitos,und,10000,0,1
+5,"Peluqueria (Colorimetria)",00028,Color,und,2500,0,1
+5,"Peluqueria (Colorimetria)",00029,"Mecha con papel",und,5000,0,1
+5,"Peluqueria (Colorimetria)",00030,"Reflejos con gorra",und,4000,0,1
+5,"Peluqueria (Colorimetria)",00031,Balayage,und,6500,0,1
+5,"Peluqueria (Colorimetria)",00035,"Decoloracion complela",und,1500,0,1
+5,"Peluqueria (Colorimetria)",00054,Raiz,und,4000,0,1
+6,"Peluqueria (Alisado, keratinas, botox, etc)",00023,"Biotina (Largo)",und,6000,0,1
+6,"Peluqueria (Alisado, keratinas, botox, etc)",00024,"Alisado (Largo)",und,4000,0,1
+6,"Peluqueria (Alisado, keratinas, botox, etc)",00032,Alisado,und,2500,0,1
+6,"Peluqueria (Alisado, keratinas, botox, etc)",00033,Botox,und,2500,0,1
+6,"Peluqueria (Alisado, keratinas, botox, etc)",00034,Keratina,und,2500,0,1
+6,"Peluqueria (Alisado, keratinas, botox, etc)",00036,"Nutrición Ampolla",und,1000,0,1
+6,"Peluqueria (Alisado, keratinas, botox, etc)",00037,Permanente,und,2500,0,1
+7,"Peluqueria (Brushing, plancha y peinados)	",00027,"Brushing / plancha",und,1200,0,1
+7,"Peluqueria (Brushing, plancha y peinados)	",00038,Peinados,und,1000,0,1
+8,Esculpidas,00039,Esculpida,und,2000,0,1
+8,Esculpidas,00040,"Service Esculpida",und,1500,0,1
+8,Esculpidas,00041,"Adicional French",und,200,0,1
+8,Esculpidas,00042,"Reconstruccion uña esculpida",und,250,0,1
+8,Esculpidas,00043,"Adicional uña XXL (N4)",und,400,0,1
+8,Esculpidas,00044,"Diseño por uña",und,100,0,1
+9,"Depilacion con cera",00045,"Depilacion axila",und,600,0,1
+9,"Depilacion con cera",00046,"Depilacion Bozo y cejas",und,600,0,1
+9,"Depilacion con cera",00047,"Depilacion pierna completa",und,800,0,1
+9,"Depilacion con cera",00048,"Depilacion cavado y tira de cola",und,800,0,1
+9,"Depilacion con cera",00049,"Depilacion rostro",und,800,0,1
+9,"Depilacion con cera",00050,"Depilacion brazos",und,600,0,1
+9,"Depilacion con cera",00051,"Depilacion cuerpo completo",und,1800,0,1
